@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sureshfisher
+- 👋 Hi, I’m Suresh R
 - 👀 I’m interested in learning new one
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on job persons
